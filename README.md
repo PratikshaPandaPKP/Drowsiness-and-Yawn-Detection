@@ -34,6 +34,11 @@
 This script is used for real-time monitoring of drowsiness and yawning, potentially useful in situations requiring continuous alertness, such as driving.
 
 
+**Video Link of The Project in Action:**
+
+https://www.loom.com/share/235eb4d0279348ae84fb892d967c968e?sid=bf98bd27-0ade-48a2-85eb-031255d59de9
+
+
 **Link of The Zip Project File:** 
 
 https://1drv.ms/u/c/f5113501d80b7674/ESvRhBneOdtCmbNIGrTTu_YBEsP4jcKz7w0v2uewYBltIA?e=tPra09
